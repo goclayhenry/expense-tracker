@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=B612:wght@400;700&display=swap');
+
+html {
+    font-family: 'B612', sans-serif;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+.navbar {
+    position: absolute;
+    background: #7CBDB3;
+    overflow: hidden;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 30px;
+    text-decoration: none;
+    color: #464646;
+}
+
+#myDiv {
+    
+    margin-left: 34%;
+    margin-top: 15%;
+}
+
+#myText {
+    font-size: 32pt;
+}
+
+#expenseBox {
+    font-size: 24pt;
+    border: none;
+    text-align: center;
+    margin-left: 30px;
+    background: transparent;
+}
